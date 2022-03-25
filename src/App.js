@@ -7,7 +7,7 @@ import InputBox from './Components/InputBox/InputBox';
 function App() {
   return (
     <div className="App">
-      <h1>Baper Bank</h1>
+      <h1>Baper Bank Money</h1>
       <OutputBox></OutputBox>
       <InputBox></InputBox>
     </div>
